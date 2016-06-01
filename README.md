@@ -12,6 +12,6 @@
 ### Course 2 - Machine Learning: Regression
 - __Simple Linear Regression__
 - __Multiple Regression__
-- 
+
 
 ### Course 3 - Machine Learning: Classification
